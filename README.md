@@ -1,5 +1,3 @@
-# Algotimo-de-Busqueda-y-Ordenamiento
-
 # Proyecto: [Algotimo de Busqueda y Ordenamiento] 🚀
 
 ## 👥 Integrantes del grupo
@@ -24,4 +22,3 @@ Integrar los conocimientos teóricos de estructuras de datos y algoritmos con su
 
 ## 🔗🎥 Enlace al video de presentación
 
-[![Ver video](https://img.shields.io/badge/YouTube-Video-red)](URL_DEL_VIDEO)
