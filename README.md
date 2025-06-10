@@ -2,7 +2,7 @@
 
 ## 👥 Integrantes del grupo
 
-- Heber Gustavo/Silva-gusheber90@gmail.com / comision 21
+- Heber, Gustavo/Silva-gusheber90@gmail.com / comision 21
 - Roure, Ricardo/rickyroure10@gmail.com / comision 21
 
 
