@@ -21,5 +21,5 @@ Fomentar el trabajo colaborativo utilizando Git y GitHub como herramientas de co
 Integrar los conocimientos teóricos de estructuras de datos y algoritmos con su aplicación práctica en un entorno de desarrollo real.
 
 ## 🔗🎥 Enlace al video de presentación
-[Video](https://drive.google.com/file/d/1kJ39VTLl8UCo8l8l9mRiebu2E8pC-s3k/view?usp=sharing)
+[Ver video](https://drive.google.com/file/d/1kJ39VTLl8UCo8l8l9mRiebu2E8pC-s3k/view?usp=sharing)
 
